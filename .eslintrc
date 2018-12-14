@@ -13,7 +13,7 @@
   ],
   "rules": {
     "linebreak-style": [
-      "error", "windows"
+      "error", "unix"
     ],
     "react/jsx-filename-extension": "off",
     "import/no-extraneous-dependencies": [
