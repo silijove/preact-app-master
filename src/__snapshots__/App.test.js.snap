@@ -1,0 +1,65 @@
+exports[`test renders correctly 1`] = `
+<div
+  __self={undefined}
+  __source={
+    Object {
+      "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+      "lineNumber": 7,
+    }
+  }
+  className="App">
+  <div
+    __self={undefined}
+    __source={
+      Object {
+        "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+        "lineNumber": 8,
+      }
+    }
+    className="App-header">
+    <img
+      __self={undefined}
+      __source={
+        Object {
+          "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+          "lineNumber": 9,
+        }
+      }
+      alt="logo"
+      className="App-logo"
+      src="logo.svg" />
+    <h2
+      __self={undefined}
+      __source={
+        Object {
+          "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+          "lineNumber": 10,
+        }
+      }>
+      Welcome to React
+    </h2>
+  </div>
+  <p
+    __self={undefined}
+    __source={
+      Object {
+        "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+        "lineNumber": 12,
+      }
+    }
+    className="App-intro">
+    To get started, edit 
+    <code
+      __self={undefined}
+      __source={
+        Object {
+          "fileName": "/home/rjs/workspaces/xebia/preact-app/src/App.js",
+          "lineNumber": 13,
+        }
+      }>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;
