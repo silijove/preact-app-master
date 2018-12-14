@@ -1,12 +1,12 @@
 import React from 'preact-compat';
-import logo from './logo.svg';
 import './App.css';
-import AppRouter from './AppRouter';
 
 function App() {
-  return (
-    <AppRouter/>
-  );
+    return (
+        <div>
+            <span>test</span>
+        </div>
+    );
 }
 
 export default App;
