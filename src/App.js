@@ -1,12 +1,9 @@
 import React from 'preact-compat';
 import './App.css';
+import AppRouter from './AppRouter';
 
 function App() {
-    return (
-        <div>
-            <span>test</span>
-        </div>
-    );
+  return <AppRouter />;
 }
 
 export default App;
